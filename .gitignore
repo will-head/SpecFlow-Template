@@ -4,6 +4,9 @@
 # VS Code
 .code/
 .ionide/
+.vscode/*
+*.code-workspace
+.history
 
 # User-specific files
 *.suo
