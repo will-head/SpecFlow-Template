@@ -11,7 +11,7 @@ Invalid activation token.
 No tests executed (activation needed)
 ```
 
-Delete the following file and you'll be prompeted to activate SpecFlow+ Runner again:
+Delete the following file and you'll be prompted to activate SpecFlow+ Runner again:
 ```
 /Users/<username>/.local/share/SpecFlow/.specflowrunner
 ```
